@@ -1,0 +1,18 @@
+p{
+    color: blueviolet;
+    font-size: large;
+}
+
+
+
+h2{
+    color: brown;
+    font-size: xx-large;
+    font-style: inherit;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+h4{
+    color: black;
+    font-size: larger;
+}
