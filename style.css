@@ -26,3 +26,16 @@ h4{
 body{
     background-color: beige;
 }
+.n2{
+    display: inline-block;
+    display: inline-flex;
+    width: 8rem;
+    height: 50px;
+    line-height: 50px ;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
